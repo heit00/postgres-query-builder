@@ -1,0 +1,11 @@
+{
+  "name": "@heit00/duck",
+  "version": "1.0.0",
+  "description": "a primitive queryBuilder system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "heit00",
+  "license": "ISC"
+}
